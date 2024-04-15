@@ -1,0 +1,10 @@
+/* Write your code here. */
+.bg-container {
+  background-color: #9796f0;
+  height: 100vh;
+}
+
+.emoji-list-container {
+  display: flex;
+  flex-wrap: wrap;
+}

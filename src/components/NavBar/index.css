@@ -1,0 +1,20 @@
+/* Write your code here. */
+.nav-bg-container {
+  background-color: #ffffff33;
+  padding: 6px;
+  color: #ffffff;
+  font-family: 'Roboto';
+  display: flex;
+  justify-content: space-between;
+}
+
+.logo-container {
+  display: flex;
+  align-items: center;
+}
+
+.nav-para {
+  font-size: 25px;
+  font-weight: 600;
+  margin-right:15px;
+}
